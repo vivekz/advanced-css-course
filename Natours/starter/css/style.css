@@ -41,6 +41,13 @@ Dark green: #28b485
     height: 35px;
  }
 
+ .text-box {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+
  .heading-primary {
     color: #ffffff;
     text-transform: uppercase;
@@ -49,13 +56,13 @@ Dark green: #28b485
  .heading-primary-main {
     display: block;
     font-size: 60px;
-    font-weight: 600;
-    letter-spacing: 36px;
+    font-weight: 400;
+    letter-spacing: 38px;
  }
 
  .heading-primary-sub {
     display: block;
-    font-size: 30px;
+    font-size: 24px;
     font-weight: 700;
-    letter-spacing: 17.4px;
+    letter-spacing: 16.3px;
  }
